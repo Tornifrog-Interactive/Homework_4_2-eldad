@@ -19,4 +19,4 @@ Movement: WASD
 Attack: Space
 </br>
 
-Game URL: https://tornifrog.itch.io/homework-4-2-eldad
+[Game URL](https://tornifrog.itch.io/homework-4-2-eldad)
