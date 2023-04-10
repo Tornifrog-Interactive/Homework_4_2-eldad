@@ -1,4 +1,4 @@
-# Homework_4_2-eldad
+# Homework_4_2 by Eldad
 
 This game is shooting game between 2 squares.
 </br>
